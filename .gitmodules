@@ -1,0 +1,9 @@
+[submodule "Modules/unbound"]
+	path = Modules/unbound
+	url = https://github.com/breadwallet/unbound.git
+[submodule "Modules/nettle"]
+	path = Modules/nettle
+	url = https://github.com/breadwallet/nettle.git
+[submodule "Modules/monawallet-core"]
+	path = Modules/monawallet-core
+	url = https://github.com/novelena/monawallet-core.git
